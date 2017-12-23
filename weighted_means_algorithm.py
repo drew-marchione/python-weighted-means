@@ -37,8 +37,6 @@ from texttable import Texttable
 #
 # 4.) Return the demeaned values
 
-# Hint: See the test cases below for how the calculation should work.
-
 def group_adjust(vals, groups, weights):
     """ 
     group_adjust will restructure vals, groups, and weights into one list that consists of dictionaries
